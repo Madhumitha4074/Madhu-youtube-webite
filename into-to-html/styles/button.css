@@ -1,0 +1,38 @@
+.join-button{
+   background-color: white;
+   border-radius: 2px;
+   color: rgb(7, 106, 145);
+   width: 80px;
+   height: 36px;
+   border-color: rgb(56, 56, 207);
+   border-style:solid;
+   margin-right: 8px;
+   font-size: medium;
+
+}
+.tweet-button{
+    background-color: rgba(29, 82, 230, 0.801);
+    color: white;
+    border-radius: 15px;
+    height: 28px;
+    width: 70px;
+    font-weight: bolder;
+    border-color: rgba(29, 82, 230, 0.801);
+    border: none;
+    
+
+}
+.sub-button{
+      background-color: rgb(235, 5, 17);
+      color: white;
+      border: none;
+      width: 105px;
+      height: 36px;
+      border-radius: 2px;
+      cursor: pointer;
+      margin-right: 8px;
+      font-style: normal;
+  }
+
+
+
